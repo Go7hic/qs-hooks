@@ -1,6 +1,6 @@
 import qs from 'qs';
 
-export function usFormats(params) {
+export function useFormats(params) {
     return qs.formats(params);
 }
 

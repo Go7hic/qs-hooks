@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/dyygtfx/qs-hooks/issues"
   },
-  "homepage": "https://github.com/dyygtfx/qs-hooks#readme"
+  "homepage": "https://github.com/dyygtfx/qs-hooks#readme",
+  "dependencies": {
+    "qs": "^6.6.0"
+  }
 }

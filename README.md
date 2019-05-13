@@ -1,5 +1,7 @@
 # qs-hooks
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/dyygtfx/qs-hooks.svg)](https://greenkeeper.io/)
+
 ### usage
 
 ```
